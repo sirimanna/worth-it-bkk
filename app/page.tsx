@@ -128,7 +128,7 @@ export default async function Home({
 
       <footer style={{ marginTop: 36, opacity: 0.75 }}>
         <p>
-          By <b>The World Loves Bangkok</b>
+          By <b>worth it in Bangkok</b>
         </p>
       </footer>
     </main>
